@@ -4,3 +4,8 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+
+ul, li {
+    display: inline;
+    line-height: 1rem;
+}
